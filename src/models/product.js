@@ -1,4 +1,9 @@
 //@ts-check
+
+/**
+ * Create a new Product item
+ * @class
+ */
 export class Product {
     #id;
     #title;
